@@ -1,0 +1,10 @@
+{
+    "username": "",
+    "password": "",
+    "app_secret": "OGQzNjRjNWU0YWM0NDI1ODgxYTI5YzZhYjk1NTQzMzc=",
+    "vendor_name": "inContact",
+    "app_name": "ContactUsFormWorkItem",
+    "business_unit": "4595978",
+    "grant_type": "client_credentials",
+    "scope": "PatronApi"
+}
